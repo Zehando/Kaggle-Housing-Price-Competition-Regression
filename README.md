@@ -1,5 +1,8 @@
 # Kaggle Housing Price Competition: Regression
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-336791?style=for-the-badge&logoColor=white)
+
 This project is a solution for the Kaggle competition to predict house sale prices (a regression task) based on the Ames Housing dataset.
 
 ## Project Overview
