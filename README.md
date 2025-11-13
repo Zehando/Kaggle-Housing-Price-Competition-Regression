@@ -23,7 +23,7 @@ The workflow includes:
 ## How to Run
 
 1.  Ensure you have `pandas` and `scikit-learn` installed (and any other libraries for your base models, like `xgboost` or `lightgbm`).
-2.  Place the `train.csv` and `test.csv` files in the correct directory (as specified in the notebook).
+2.  Place the `labeled.csv` (train data) and `unlabeled.csv` (test data) files in the correct directory (as specified in the notebook).
 3.  Run the notebook from top to bottom.
 4.  The final predictions will be saved as `submission.csv`.
 
